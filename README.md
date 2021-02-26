@@ -1,5 +1,5 @@
 # Major-Project : Redacting sensitive information from documents
-                                                   FAST & AUTO REDACION TOOL
+                                              FAST & AUTO REDACION TOOL
 ## Introduction
 
 ## Plan 
