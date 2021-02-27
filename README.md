@@ -17,6 +17,9 @@ What Information Needs Redacting?
     identifiable information (PII)
 
 Nearly every industry needs redaction in some form to protect important information. However, some, like the legal industry and the government, deal with more sensitive information than others.
+One of the major problem with redaction is most of the time context of the document can be lost. For Eg below given image.![image](https://user-images.githubusercontent.com/39613338/109378549-74668e00-78f9-11eb-8ca3-f28f154a51fe.png)
+
+
 
 Another example is healthcare, which is mandated by HIPAA to protect PHI (Protected Health Information) and is also required to notify affected individuals if their information is exposed—potentially crippling public relations.
 
