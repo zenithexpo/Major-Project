@@ -21,7 +21,8 @@ Another example is healthcare, which is mandated by HIPAA to protect PHI (Protec
 
 One of the major problem with redaction is most of the time context of the document can be lost. For Eg below given image.![image](https://user-images.githubusercontent.com/39613338/109378549-74668e00-78f9-11eb-8ca3-f28f154a51fe.png)
 
-
+### Handling Different Types of Documents
+Redaction takes place across different types of industries, therefore model should be able to cater all types documents. For example phrasing of words in a insurance report compared to in a hospital report will be different. For now we are targetting three separate models, so that the model can redacted using a specific domain. - General, Insurance and legal.
 
 
 ## Plan 
