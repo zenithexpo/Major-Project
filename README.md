@@ -34,6 +34,11 @@ OCR technology allows rules-based search engines to locate and mark sensitive in
     Automated software analyzes the document for PII (paper and microfilm must be scanned first)
     The service sanitizes the file, removing and redacting marked information
     The document is reproduced in its redacted format and restored with other files in a document management system (DMS) or cloud storage
+    
+ Proposing-
+ 1. Auto-redactor using NER 
+ 2. Manual redaction (User Selection Redaction)
+ 3. Labeller 
 
 
 ## Project Flow 
