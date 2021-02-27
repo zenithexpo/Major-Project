@@ -4,6 +4,7 @@
 “I’d like people to get a sense of who I am, yet I want to keep my privacy, too.” – Rosamund Pike
 
 Redaction is the process of removing sensitive information from documents.In many regulated industries, redaction plays a crucial role in making sure that confidential data or sensitive information is not viewed by the wrong people – for example, when sharing documents with a third party that include an individual's personally identifiable information (PII). 
+
 What Information Needs Redacting?
 
     Social security numbers.
@@ -12,11 +13,13 @@ What Information Needs Redacting?
     Financial documents and files.
     Proprietary information or trade secrets.
     Judiciary records.
-    Individuals’ addresses, dates and months of birth, and other personally        identifiable information (PII)
+    Individuals’ addresses, dates and months of birth, and other personally        
+    identifiable information (PII)
 
 Nearly every industry needs redaction in some form to protect important information. However, some, like the legal industry and the government, deal with more sensitive information than others.
 
 Another example is healthcare, which is mandated by HIPAA to protect PHI (Protected Health Information) and is also required to notify affected individuals if their information is exposed—potentially crippling public relations.
+
 ## Plan 
 Existing-
 Using Optical Character Recognition (OCR) for Redaction
